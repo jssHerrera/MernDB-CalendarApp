@@ -1,0 +1,2 @@
+db_user: merm_user
+pass: gH49Lpkpot6Y2D50
